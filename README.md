@@ -30,6 +30,8 @@ The endless carousel is implemented with React and regular CSS only, without ext
 
 ## Time Spent
 
-Backend: about 1 hour 20 minutes
-Frontend core features: 2 hours
+Backend: about 1 hour 20 minutes;
+
+Frontend core features: 2 hours;
+
 Styling, testing and debugging: about 40 minutes
